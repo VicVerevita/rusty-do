@@ -48,9 +48,3 @@ cargo run
    - Choose "Exit" when you're done managing your tasks.
 
 Feel free to explore the provided Rust code to understand the implementation details.
-
-## Contributions
-
-Contributions are welcome! Feel free to open issues or pull requests to enhance the functionality or fix any issues you encounter.
-
-Happy task management! 🚀
