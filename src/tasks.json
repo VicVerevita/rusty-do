@@ -1,12 +1,12 @@
 [
-    {
-        "details": "Task 1",
-        "finished": true,
-        "priority": "LOW"
-    },
-    {
-        "details": "Task 2",
-        "finished": false,
-        "priority": "HIGH"
-    }
+  {
+    "details": "Task added",
+    "finished": false,
+    "priority": "MEDIUM"
+  },
+  {
+    "details": "Task added",
+    "finished": false,
+    "priority": "MEDIUM"
+  }
 ]
