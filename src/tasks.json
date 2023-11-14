@@ -1,12 +1,12 @@
 [
   {
-    "details": "Task added",
-    "finished": false,
-    "priority": "MEDIUM"
+    "details": "Task 1",
+    "finished": true,
+    "priority": "LOW"
   },
   {
-    "details": "Task added",
-    "finished": false,
-    "priority": "MEDIUM"
+    "details": "asda",
+    "finished": true,
+    "priority": "LOW"
   }
 ]
